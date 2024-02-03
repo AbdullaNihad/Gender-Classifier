@@ -1,1 +1,1 @@
-Classify gender when given chest x-rays
+Classify gender when given chest x-rays.
